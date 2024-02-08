@@ -1,0 +1,1 @@
+The project is a design for an e-commerce like website using htm;,sacss and js
